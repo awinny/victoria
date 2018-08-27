@@ -1,0 +1,3 @@
+[submodule "src/app/modules/vmo"]
+	path = src/app/modules/vmo
+	url = https://github.com/awinny/vmo.git
